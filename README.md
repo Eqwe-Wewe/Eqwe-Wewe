@@ -3,4 +3,4 @@ Beginner Junior Software Developer with more than 6 months programming experienc
 
 ## 🛠 Technical Stack
 *   Python language
-*   MySQL, PyQt5, Pygame, TeleBot, Flask
+*   MySQL, PyQt5, Pygame, TeleBot, Flask, BeautifulSoup
